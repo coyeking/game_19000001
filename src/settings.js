@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","3d","skybox"],collisionMatrix:[[true],[false,false],[false,false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/main/main.fire",orientation:"portrait",jsList:["assets/libs/base_lib.js"]};
